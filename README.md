@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-Hello, my name is Ivan Montes. I like soccer, and I like coding and making smart programs. Please be patient with me as I learn.
+This repository records all the project works that I did in my PGP-AIML program with UT Austin and Great Learning!
